@@ -1,0 +1,453 @@
+Data Field,Value,Label
+q1AgeBeginCoding,1,5 - 10 years old
+q1AgeBeginCoding,2,11 - 15 years old
+q1AgeBeginCoding,3,16 - 20 years old
+q1AgeBeginCoding,4,21 - 25 years old
+q1AgeBeginCoding,5,26 - 30 years old
+q1AgeBeginCoding,6,31 - 35 years old
+q1AgeBeginCoding,7,36 - 40 years old
+q1AgeBeginCoding,8,41 - 50 years old
+q1AgeBeginCoding,9,50+ years or older
+q2Age,1,Under 12 years old
+q2Age,2,12 - 18 years old
+q2Age,3,18 - 24 years old
+q2Age,4,25 - 34 years old
+q2Age,5,35 - 44 years old
+q2Age,6,45 - 54 years old
+q2Age,7,55 - 64 years old
+q2Age,8,65 - 74 years old
+q2Age,9,75 years or older
+q3Gender,1,Male
+q3Gender,2,Female
+q3Gender,3,Non-Binary
+q4Education,0,Other (please specify)
+q4Education,1,Some high school
+q4Education,2,High school graduate
+q4Education,3,Some college
+q4Education,4,Vocational training (like bootcamp)
+q4Education,5,College graduate
+q4Education,6,"Some post graduate work (Masters, PhD)"
+q4Education,7,"Post graduate degree (Masters, PhD)"
+q5DegreeFocus,0,Other (please specify)
+q5DegreeFocus,1,Computer Science
+q5DegreeFocus,2,"Other STEM (science, technology, engineering, math)"
+q6LearnCodeUni,1,School or university
+q6LearnCodeSelfTaught,1,"Self-taught (i.e. books, online)"
+q6LearnCodeAccelTrain,1,Accelerated training (i.e. bootcamp)
+q6LearnCodeDontKnowHowToYet,1,I don't know how to code yet
+q6LearnCodeOther,1,Other (please specify)
+q7Level1,1,C
+q7Level1,2,Ruby
+q7Level1,3,Python
+q7Level1,4,SQL
+q8JobLevel,0,Other (please specify)
+q8JobLevel,1,Student
+q8JobLevel,2,New grad
+q8JobLevel,3,Freelancer
+q8JobLevel,4,Level 1 developer (junior)
+q8JobLevel,5,Senior developer
+q8JobLevel,6,Principal engineer
+q8JobLevel,7,Architect
+q8JobLevel,8,Engineering manager
+q8JobLevel,9,Director / VP of Engineering
+q8JobLevel,10,Founder / CEO / CTO
+q8JobLevel,11,None
+q8Student,0,Developers
+q8Student,1,Students
+q9CurrentRole,0,Other (please specify)
+q9CurrentRole,1,Web Developer
+q9CurrentRole,2,Front-end Developer
+q9CurrentRole,3,Back-end Developer
+q9CurrentRole,4,Full-stack Developer
+q9CurrentRole,5,Data Analyst
+q9CurrentRole,6,Data Scientist
+q9CurrentRole,7,Mobile Developer
+q9CurrentRole,8,Software Specialist
+q9CurrentRole,9,Software Engineer
+q9CurrentRole,10,Software Test Engineer
+q9CurrentRole,11,Software Architect
+q9CurrentRole,12,Reliability Engineer
+q9CurrentRole,13,Development Operations Engineer
+q9CurrentRole,14,Platform Engineer
+q9CurrentRole,15,Database Administrator
+q9CurrentRole,16,Network Administrator
+q9CurrentRole,17,Data Engineer
+q9CurrentRole,18,Student
+q9CurrentRole,19,Unemployed
+q10Industry,0,Other (please specify)
+q10Industry,1,Aerospace & Defense
+q10Industry,2,Automotive & Transportation
+q10Industry,3,Computer Hardware
+q10Industry,4,Education
+q10Industry,5,Financial Services
+q10Industry,6,Food & Beverage
+q10Industry,7,Government
+q10Industry,8,Health Care
+q10Industry,9,Insurance
+q10Industry,10,Media
+q10Industry,11,Non-Profit
+q10Industry,12,Retail
+q10Industry,13,Security
+q10Industry,14,Technology
+q10Industry,15,"Travel, Tourism, Accommodation"
+q10Industry,16,"Telecom, Internet Services"
+q10Industry,17,Real estate
+q10Industry,18,Manufacturing
+q10Industry,19,"Energy, Oil, Gas, Utilities"
+q10Industry,20,Professional Services
+q12JobCritPrefTechStack,1,Preferred tech stack
+q12JobCritCompMission,1,Company mission
+q12JobCritCompCulture,1,Company culture
+q12JobCritWorkLifeBal,1,Good work/life balance
+q12JobCritCompensation,1,Compensation
+q12JobCritProximity,1,Proximity to where you live
+q12JobCritPerks,1,Perks
+q12JobCritSmartPeopleTeam,1,Smart people / team
+q12JobCritImpactwithProduct,1,Impact with product
+q12JobCritInterestProblems,1,Interesting problems to solve
+q12JobCritFundingandValuation,1,Funding and valuation
+q12JobCritStability,1,Stability from a large company
+q12JobCritProfGrowth,1,Professional growth and learning
+q12JobCritOther,1,Other (please specify)
+q13EmpMeasWhiteboard,1,Whiteboard Interview
+q13EmpMeasHackerRank,1,HackerRank Challenge
+q13EmpMeasOtherCodingChallenge,1,Other Coding Challenge Assessment
+q13EmpMeasTechPhoneInt,1,Technical Phone Interview
+q13EmpMeasTakeHomeProject,1,Take Home Project
+q13EmpMeasResume,1,Resume
+q13EmpMeasPastWork,1,Past Work
+q13EmpMeasOther,1,Other (please specify)
+q14GoodReflecAbilities,1,Very Good
+q14GoodReflecAbilities,2,Good
+q14GoodReflecAbilities,3,Acceptable
+q14GoodReflecAbilities,4,Poor
+q14GoodReflecAbilities,5,Very Poor
+q15Level2,1,"prints ""Hello, World!"" n times"
+q15Level2,2,prints n
+q15Level2,3,"prints ""Hello, World!"" once"
+q15Level2,4,prints all numbers up to n
+q16HiringManager,1,Yes
+q16HiringManager,2,No
+q17HirChaInterviews,1,Time consuming interviews
+q17HirChaHardAssessSkills,1,Hard to assess skills before onsite
+q17HirChaNotEnoughTalent,1,Not enough talent
+q17HirChaNoDiversCandidates,1,Not enough diverse candidates
+q17HirChaCompfromCompanies,1,Competition from other companies
+q17HirChaJobDescript,1,Calibrating the job description
+q17HirChaOther,1,Other (please specify)
+q18NumDevelopHireWithinNextYear,1,0 - 10
+q18NumDevelopHireWithinNextYear,2,11 - 50
+q18NumDevelopHireWithinNextYear,3,51 - 100
+q18NumDevelopHireWithinNextYear,4,101 - 200
+q18NumDevelopHireWithinNextYear,5,201 - 500
+q18NumDevelopHireWithinNextYear,6,501 - 1000
+q18NumDevelopHireWithinNextYear,7,1000+
+q19TalToolResumeScreen,1,Resume screening
+q19TalToolReferral,1,Referrals
+q19TalToolHackerRank,1,HackerRank coding challenges
+q19TalToolOtherProbSolv,1,"Other problem solving, logic challenges"
+q19TalToolPersTest,1,Personality test
+q19TalToolRemoteorLiveIntTool,1,"Remote, live interviewing tool"
+q19TalToolOutsourceHumIntPanel,1,Outsourced human technical interview panel
+q19TalToolOther,1,Other (please specify)
+q20CandYearExp,1,Years of experience
+q20CandCompScienceDegree,1,Computer science degree or related
+q20CandCodingBootcamp,1,Coding bootcamp education
+q20CandSkillCert,1,Skill Certifications
+q20CandHackerRankActivity,1,Activity on HackerRank
+q20CandOtherCodingCommAct,1,Other coding community activity
+q20CandGithubPersProj,1,Personal projects/GitHub
+q20CandOpenSourceContrib,1,Open source contributions
+q20CandHackathonPart,1,Hackathon participations
+q20CandPrevWorkExp,1,Previous work experience
+q20CandPrestigeDegree,1,Prestige of degree
+q20CandLinkInSkills,1,LinkedIn skill endorsements
+q20CandGithubPersProj2,1,Github or personal projects
+q20Other,1,Other (please specify)
+q21CoreCompProbSolv,1,Problem Solving
+q21CoreCompProgLang,1,Programming Language Proficiency
+q21CoreCompFrameworkProf,1,Frameworks Proficiency
+q21CoreCompDebugging,1,Debugging
+q21CoreCompCodebaseNav,1,Codebase Navigation
+q21CoreCompPerfOpt,1,Performance Optimization
+q21CoreCompCodeReview,1,Code Review Capability
+q21CoreCompDatabaseDesign,1,Database Design
+q21CoreCompSysDesign,1,System Design
+q21CoreCompTesting,1,Testing
+q22LangProfAgnostic,1,Language agnostic
+q22LangProfC,1,C
+q22LangProfCPlusPlus,1,C++
+q22LangProfJava,1,Java
+q22LangProfPython,1,Python
+q22LangProfRuby,1,Ruby
+q22LangProfJavascript,1,Javascript
+q22LangProfCSharp,1,C#
+q22LangProfGo,1,Go
+q22LangProfScala,1,Scala
+q22LangProfPerl,1,Perl
+q22LangProfSwift,1,Swift
+q22LangProfPascal,1,Pascal
+q22LangProfClojure,1,Clojure
+q22LangProfPHP,1,PHP
+q22LangProfHaskell,1,Haskell
+q22LangProfLua,1,Lua
+q22LangProfR,1,R
+q22LangProfOther,1,Other (please specify)
+q23FrameAngularJS,1,AngularJS
+q23FrameReact,1,React
+q23FrameVueDotJS,1,Vue.js
+q23FrameEmber,1,Ember
+q23FrameBackboneDotJS,1,Backbone.js
+q23FrameSpring,1,Spring
+q23FrameJSF,1,JSF
+q23FrameStruts,1,Struts
+q23FrameNodeDotJS,1,Node.js
+q23FrameExpressJS,1,ExpressJS
+q23FrameMeteor,1,Meteor
+q23FrameDjango,1,Django
+q23FramePyramid,1,Pyramid
+q23FrameRubyonRails,1,Ruby on Rails
+q23FramePadrino,1,Padrino
+q23FrameASP,1,ASP
+q23FrameNetCore,1,.NETCore
+q23FrameCocoa,1,Cocoa
+q23FrameReactNative,1,React Native
+q23FrameRubyMotion,1,RubyMotion
+q23FrameOther,1,Other (please specify)
+q24VimorEmacs,0,Other (please specify)
+q24VimorEmacs,1,Vim
+q24VimorEmacs,2,Emacs
+q25LangC,0,Missing or Neither
+q25LangC,1,Know
+q25LangC,2,Will Learn
+q25LangCPlusPlus,0,Missing or Neither
+q25LangCPlusPlus,1,Know
+q25LangCPlusPlus,2,Will Learn
+q25LangJava,0,Missing or Neither
+q25LangJava,1,Know
+q25LangJava,2,Will Learn
+q25LangPython,0,Missing or Neither
+q25LangPython,1,Know
+q25LangPython,2,Will Learn
+q25LangRuby,0,Missing or Neither
+q25LangRuby,1,Know
+q25LangRuby,2,Will Learn
+q25LangJavascript,0,Missing or Neither
+q25LangJavascript,1,Know
+q25LangJavascript,2,Will Learn
+q25LangCSharp,0,Missing or Neither
+q25LangCSharp,1,Know
+q25LangCSharp,2,Will Learn
+q25LangGo,0,Missing or Neither
+q25LangGo,1,Know
+q25LangGo,2,Will Learn
+q25Scala,0,Missing or Neither
+q25Scala,1,Know
+q25Scala,2,Will Learn
+q25LangPerl,0,Missing or Neither
+q25LangPerl,1,Know
+q25LangPerl,2,Will Learn
+q25LangSwift,0,Missing or Neither
+q25LangSwift,1,Know
+q25LangSwift,2,Will Learn
+q25LangPascal,0,Missing or Neither
+q25LangPascal,1,Know
+q25LangPascal,2,Will Learn
+q25LangClojure,0,Missing or Neither
+q25LangClojure,1,Know
+q25LangClojure,2,Will Learn
+q25LangPHP,0,Missing or Neither
+q25LangPHP,1,Know
+q25LangPHP,2,Will Learn
+q25LangHaskell,0,Missing or Neither
+q25LangHaskell,1,Know
+q25LangHaskell,2,Will Learn
+q25LangLua,0,Missing or Neither
+q25LangLua,1,Know
+q25LangLua,2,Will Learn
+q25LangR,0,Missing or Neither
+q25LangR,1,Know
+q25LangR,2,Will Learn
+q25LangRust,0,Missing or Neither
+q25LangRust,1,Know
+q25LangRust,2,Will Learn
+q25LangTypescript,0,Missing or Neither
+q25LangTypescript,1,Know
+q25LangTypescript,2,Will Learn
+q25LangKotlin,0,Missing or Neither
+q25LangKotlin,1,Know
+q25LangKotlin,2,Will Learn
+q25LangJulia,0,Missing or Neither
+q25LangJulia,1,Know
+q25LangJulia,2,Will Learn
+q25LangErlang,0,Missing or Neither
+q25LangErlang,1,Know
+q25LangErlang,2,Will Learn
+q25LangOcaml,0,Missing or Neither
+q25LangOcaml,1,Know
+q25LangOcaml,2,Will Learn
+q26FrameLearnAngularJS,1,Know
+q26FrameLearnAngularJS,2,Will Learn
+q26FrameLearnReact,1,Know
+q26FrameLearnReact,2,Will Learn
+q26FrameLearnVueDotjs,1,Know
+q26FrameLearnVueDotjs,2,Will Learn
+q26FrameLearnEmber,1,Know
+q26FrameLearnEmber,2,Will Learn
+q26FrameLearnBackboneDotjs,1,Know
+q26FrameLearnBackboneDotjs,2,Will Learn
+q26FrameLearnSpring,1,Know
+q26FrameLearnSpring,2,Will Learn
+q26FrameLearnJSF,1,Know
+q26FrameLearnJSF,2,Will Learn
+q26FrameLearnStruts,1,Know
+q26FrameLearnStruts,2,Will Learn
+q26FrameLearnDjango,1,Know
+q26FrameLearnDjango,2,Will Learn
+q26FrameLearnPyramid,1,Know
+q26FrameLearnPyramid,2,Will Learn
+q26FrameLearnRubyonRails,1,Know
+q26FrameLearnRubyonRails,2,Will Learn
+q26FrameLearnPadrino,1,Know
+q26FrameLearnPadrino,2,Will Learn
+q26FrameLearnASP,1,Know
+q26FrameLearnASP,2,Will Learn
+q26FrameLearnNetCore,1,Know
+q26FrameLearnNetCore,2,Will Learn
+q26FrameLearnNodeDotjs,1,Know
+q26FrameLearnNodeDotjs,2,Will Learn
+q26FrameLearnExpressJS,1,Know
+q26FrameLearnExpressJS,2,Will Learn
+q26FrameLearnMetero,1,Know
+q26FrameLearnMetero,2,Will Learn
+q26FrameLearnCocoa,1,Know
+q26FrameLearnCocoa,2,Will Learn
+q26FrameLearnReactNative,1,Know
+q26FrameLearnReactNative,2,Will Learn
+q26FrameLearnRubyMotion,1,Know
+q26FrameLearnRubyMotion,2,Will Learn
+q26FrameLearnPadrino2,1,Know
+q26FrameLearnPadrino2,2,Will Learn
+q26FrameLearnDjango2,1,Know
+q26FrameLearnDjango2,2,Will Learn
+q26FrameLearnPyramid2,1,Know
+q26FrameLearnPyramid2,2,Will Learn
+q27EmergingTechSkill,0,Other (please specify)
+q27EmergingTechSkill,1,Machine Learning / Deep Learning
+q27EmergingTechSkill,2,Blockchain
+q27EmergingTechSkill,3,Virtual Reality / Augmented Reality / Mixed Reality
+q27EmergingTechSkill,4,Robotics
+q27EmergingTechSkill,5,Quantum Computing
+q27EmergingTechSkill,6,Computer Vision
+q27EmergingTechSkill,7,Internet of Things
+q28LoveC,1,Love
+q28LoveC,2,Hate
+q28LoveCPlusPlus,1,Love
+q28LoveCPlusPlus,2,Hate
+q28LoveJava,1,Love
+q28LoveJava,2,Hate
+q28LovePython,1,Love
+q28LovePython,2,Hate
+q28LoveRuby,1,Love
+q28LoveRuby,2,Hate
+q28LoveJavascript,1,Love
+q28LoveJavascript,2,Hate
+q28LoveCSharp,1,Love
+q28LoveCSharp,2,Hate
+q28LoveGo,1,Love
+q28LoveGo,2,Hate
+q28LoveScala,1,Love
+q28LoveScala,2,Hate
+q28LovePerl,1,Love
+q28LovePerl,2,Hate
+q28LoveSwift,1,Love
+q28LoveSwift,2,Hate
+q28LovePascal,1,Love
+q28LovePascal,2,Hate
+q28LoveClojure,1,Love
+q28LoveClojure,2,Hate
+q28LovePHP,1,Love
+q28LovePHP,2,Hate
+q28LoveHaskell,1,Love
+q28LoveHaskell,2,Hate
+q28LoveLua,1,Love
+q28LoveLua,2,Hate
+q28LoveR,1,Love
+q28LoveR,2,Hate
+q28LoveRust,1,Love
+q28LoveRust,2,Hate
+q28LoveKotlin,1,Love
+q28LoveKotlin,2,Hate
+q28LoveTypescript,1,Love
+q28LoveTypescript,2,Hate
+q28LoveErlang,1,Love
+q28LoveErlang,2,Hate
+q28LoveJulia,1,Love
+q28LoveJulia,2,Hate
+q28LoveOCaml,1,Love
+q28LoveOCaml,2,Hate
+q29FrameLoveAngularJS,1,Love
+q29FrameLoveAngularJS,2,Hate
+q29FrameLoveReact,1,Love
+q29FrameLoveReact,2,Hate
+q29FrameLoveVuedotjs,1,Love
+q29FrameLoveVuedotjs,2,Hate
+q29FrameLoveEmber,1,Love
+q29FrameLoveEmber,2,Hate
+q29FrameLoveBackboneDotjs,1,Love
+q29FrameLoveBackboneDotjs,2,Hate
+q29FrameLoveSpring,1,Love
+q29FrameLoveSpring,2,Hate
+q29FrameLoveJSF,1,Love
+q29FrameLoveJSF,2,Hate
+q29FrameLoveStruts,1,Love
+q29FrameLoveStruts,2,Hate
+q29FrameLoveDjango,1,Love
+q29FrameLoveDjango,2,Hate
+q29FrameLovePyramid,1,Love
+q29FrameLovePyramid,2,Hate
+q29FrameLoveRubyonRails,1,Love
+q29FrameLoveRubyonRails,2,Hate
+q29FrameLovePadrino,1,Love
+q29FrameLovePadrino,2,Hate
+q29FrameLoveASP,1,Love
+q29FrameLoveASP,2,Hate
+q29FrameLoveNetCore,1,Love
+q29FrameLoveNetCore,2,Hate
+q29FrameLoveNodeDotjs,1,Love
+q29FrameLoveNodeDotjs,2,Hate
+q29FrameLoveExpressJS,1,Love
+q29FrameLoveExpressJS,2,Hate
+q29FrameLoveMeteor,1,Love
+q29FrameLoveMeteor,2,Hate
+q29FrameLoveCocoa,1,Love
+q29FrameLoveCocoa,2,Hate
+q29FrameLoveReactNative,1,Love
+q29FrameLoveReactNative,2,Hate
+q29FrameLoveRubyMotion,1,Love
+q29FrameLoveRubyMotion,2,Hate
+q30LearnCodeStackOverflow,1,Stack Overflow
+q30LearnCodeYoutube,1,YouTube
+q30LearnCodeMOOC,1,"MOOC (i.e. Udemy, Udacity, Coursera, Edx, etc.)"
+q30LearnCodeCompCodingSites,1,Competitive Coding Sites
+q30LearnCodeOnlineTutorial,1,"Online tutorials (i.e. Pluralsight, Lynda.com, etc.)"
+q30LearnCodeBooks,1,Books
+q30LearnCodeAcademicPaper,1,Academic papers
+q30LearnCodeOther,1,Other (please specify)
+q31Level3,1,num%2 == 0
+q31Level3,2,num%2 == 1
+q31Level3,3,num%3 == 0
+q31Level3,4,sqrt(num) == 3
+q32RecommendHackerRank,0,Other (please specify)
+q32RecommendHackerRank,1,Yes
+q32RecommendHackerRank,2,No
+q33HackerRankChallforJob,1,Yes
+q33HackerRankChallforJob,2,No
+q34IdealLengHackerRankTest,0,Other (please specify)
+q34IdealLengHackerRankTest,1,30 - 45 minutes
+q34IdealLengHackerRankTest,2,46 - 60 minutes
+q34IdealLengHackerRankTest,3,1 -2 hours
+q34IdealLengHackerRankTest,4,2 to 4 hours
+q36Level4,1,Set
+q36Level4,2,Queue
+q36Level4,3,Hashmap
